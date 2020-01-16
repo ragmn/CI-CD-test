@@ -10,7 +10,7 @@ namespace CI_CD_Test.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page";
+            ViewBag.Title = "Dev Page CICD";
 
             return View();
         }
